@@ -1,0 +1,15 @@
+h2{
+	color:Purple;
+}
+h3{ font-size: 20px; color:white;background: mediumpurple;
+}
+thead{
+	font-size: 20px;
+	background-color: mediumpurple; 
+	text-align: center;
+}
+tbody{
+
+	background-color: mediumpurple; 
+	text-align: center;
+}	
